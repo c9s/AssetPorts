@@ -1,0 +1,7 @@
+---
+resource:
+  github: douglascrockford/JSON-js
+assets:
+  - js: 1
+    files:
+      - JSON-js/json2.js
