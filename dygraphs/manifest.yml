@@ -1,0 +1,8 @@
+---
+resource:
+  github: danvk/dygraphs
+  commands:
+    - make 
+assets:
+  - files:
+    - dygraphs/dygraph-combined.js
