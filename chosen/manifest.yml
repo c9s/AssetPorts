@@ -5,9 +5,9 @@ resource:
     - npm install -d
     - cake build
 assets:
-  - css:1
+  - stylesheet: 1
     files:
       - chosen/chosen/chosen.css
-  - js:1
+  - javascript: 1
     files:
-      chosen/chosen/chosen.jquery.js
+      - chosen/chosen/chosen.jquery.js
