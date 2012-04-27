@@ -1,0 +1,7 @@
+---
+resource:
+  github: jquery/sizzle
+assets:
+  - js: 1
+    files: 
+      - sizzle/sizzle.js
