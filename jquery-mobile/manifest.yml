@@ -1,0 +1,16 @@
+---
+resource:
+  github: jquery/jquery-mobile
+  commands:
+    - make
+assets:
+  - files:
+      - jquery-mobile/compiled/images
+  - css: 1
+    files:
+      - jquery-mobile/compiled/jquery.mobile.css
+      - jquery-mobile/compiled/jquery.mobile.structure.css
+      - jquery-mobile/compiled/jquery.mobile.theme.css
+  - js: 1
+    files:
+      - jquery-mobile/compiled/jquery.mobile.js
