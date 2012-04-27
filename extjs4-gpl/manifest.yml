@@ -1,0 +1,14 @@
+---
+resource:
+  url: http://cdn.sencha.io/ext-4.1.0-gpl.zip
+  zip: 1
+assets:
+  - js: 1 
+    files:
+    - extjs-4.1.0/ext-all.js
+  - css: 1
+    files:
+    - extjs-4.1.0/resources/css/ext-all.css
+  - files:
+    - extjs-4.1.0/resources
+#    - ext-all-debug.js
