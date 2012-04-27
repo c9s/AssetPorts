@@ -1,0 +1,7 @@
+---
+resource:
+  github: beppu/jquery-ev
+assets:
+  - js: 1
+    files:
+    - jquery-ev/jquery.ev.js
