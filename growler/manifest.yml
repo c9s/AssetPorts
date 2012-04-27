@@ -1,8 +1,10 @@
 ---
+resource:
+  github: stanlemon/jGrowl
 assets:
   - css: 1
     files:
-      - jquery.jgrowl.css
+      - jGrowl/jquery.jgrowl.css
   - js: 1
     files:
-      - jquery.jgrowl.js
+      - jGrowl/jquery.jgrowl.js
