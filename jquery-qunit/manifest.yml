@@ -1,0 +1,10 @@
+---
+resource:
+  github: jquery/qunit
+assets:
+  - css: 1
+    files:
+    - qunit/qunit/qunit.css
+  - js: 1
+    files:
+    - qunit/qunit/qunit.js
