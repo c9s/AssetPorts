@@ -2,4 +2,9 @@
 resource:
   github: krewenki/jquery-lightbox
 assets:
-  - files: { ]
+  - css: 1
+    files:
+      jquery-lightbox/css/lightbox.css
+  - js: 1
+    files:
+      jquery-lightbox/jquery.lightbox.js
