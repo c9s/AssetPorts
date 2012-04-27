@@ -1,0 +1,8 @@
+---
+assets:
+  - css: 1
+    files:
+      - jquery.jgrowl.css
+  - js: 1
+    files:
+      - jquery.jgrowl.js
